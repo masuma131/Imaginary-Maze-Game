@@ -19,6 +19,10 @@ Physical mazes are difficult to set up and lack flexibility, while software maze
 - **Custom Reset Button**: Allows players to restart the game at any time.
 - **Serial Communication (Development Phase)**: Displays the maze and provides real-time feedback during development only.
 
+## Demo Video
+Check out the gameplay and features in action by watching the demo video:
+[Watch Demo](https://youtu.be/Y5yXIvSMFpk?si=vNWENwVswH105zBH)
+
 ## Set Up
 ### Hardware Requirements
 - NXP FRDM-K66F Microcontroller
@@ -34,7 +38,7 @@ Physical mazes are difficult to set up and lack flexibility, while software maze
 ```bash
 git clone https://github.com/masuma131/Imaginary-Maze-Game
 ```
-2. Install MCUXpresso IDE: Download and install MCUXpresso IDE.
+2. Install MCUXpresso IDE
   
 3. Download the SDK:
 - Visit the NXP SDK Builder.
@@ -69,10 +73,6 @@ The project has exciting prospects for enhancements, including:
    - Green LED indicates a clear path.
    - Blue LED lights up when you reach the endpoint.
 4. Press the reset button to restart the game.
-   
-## Demo Video
-Check out the gameplay and features in action by watching the demo video:
-[Watch Demo](https://youtu.be/Y5yXIvSMFpk?si=vNWENwVswH105zBH)
 
 
 ## Project Status
