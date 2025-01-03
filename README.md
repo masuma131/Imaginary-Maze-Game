@@ -3,7 +3,7 @@
 ## Overview
 The **Imaginary Maze Navigation Game** is an interactive embedded systems project designed to address the limitations of physical and software-based mazes. This project uses the NXP FRDM-K66F microcontroller to create a 4x4 invisible maze where players navigate using accelerometer data. The game emphasizes inclusivity and cognitive skill development through a unique, non-graphical approach. <br>
 
-![Cover](cover.png)
+![Video Thumbnail](video-thumbnail.png)
 (See Video Demo Below)
 
 ## Problem Statement
@@ -71,9 +71,8 @@ The project has exciting prospects for enhancements, including:
 4. Press the reset button to restart the game.
    
 ## Demo Video
-![Cover](video-thumbnail.png)
 Check out the gameplay and features in action by watching the demo video:
-[Watch the Demo Video on YouTube](https://youtu.be/Y5yXIvSMFpk?si=vNWENwVswH105zBH)
+[Watch Demo](https://youtu.be/Y5yXIvSMFpk?si=vNWENwVswH105zBH)
 
 
 ## Project Status
