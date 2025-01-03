@@ -57,14 +57,6 @@ git clone https://github.com/masuma131/Imaginary-Maze-Game
 - Build the project in MCUXpresso IDE.
 - Flash the program to the board by clicking the debug/run button.
 
-## Future Plans
-The project has exciting prospects for enhancements, including:
-- **Audio Feedback**: Provide auditory signals for collisions, movements, and success to improve accessibility for visually impaired players.
-- **Vibration Feedback**: Integrate haptic feedback for users with both hearing and visual impairments.
-- **Advanced Game Logic**: Offer different game modes and improve motion detection.
-- **Random Maze Generation**: Use algorithms to dynamically generate mazes for unique gameplay experiences.
-- **Multiplayer Mode**: Enable wireless communication for multiplayer functionality.
-
 ## How to Play
 1. Power on the FRDM-K66F board.
 2. Tilt the board to navigate through the invisible maze.
@@ -73,6 +65,14 @@ The project has exciting prospects for enhancements, including:
    - Green LED indicates a clear path.
    - Blue LED lights up when you reach the endpoint.
 4. Press the reset button to restart the game.
+
+## Future Plans
+The project has exciting prospects for enhancements, including:
+- **Audio Feedback**: Provide auditory signals for collisions, movements, and success to improve accessibility for visually impaired players.
+- **Vibration Feedback**: Integrate haptic feedback for users with both hearing and visual impairments.
+- **Advanced Game Logic**: Offer different game modes and improve motion detection.
+- **Random Maze Generation**: Use algorithms to dynamically generate mazes for unique gameplay experiences.
+- **Multiplayer Mode**: Enable wireless communication for multiplayer functionality.
 
 
 ## Project Status
