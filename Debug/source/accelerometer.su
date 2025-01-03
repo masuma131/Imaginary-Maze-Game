@@ -1,0 +1,11 @@
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\MazeGameFinal\drivers/fsl_clock.h:725:20:CLOCK_EnableClock	24	static
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\MazeGameFinal\drivers/fsl_port.h:271:20:PORT_SetPinConfig	32	static
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\MazeGameFinal\drivers/fsl_gpio.h:162:20:GPIO_PinWrite	24	static
+../source/accelerometer.c:23:6:i2c_release_bus_delay	16	static
+../source/accelerometer.c:31:6:BOARD_I2C_ReleaseBus	16	static
+../source/accelerometer.c:81:6:i2c_master_callback	24	static
+../source/accelerometer.c:95:6:I2C_InitModule	24	static
+../source/accelerometer.c:113:6:I2C_ReadAccelWhoAmI	40	static
+../source/accelerometer.c:222:6:I2C_WriteAccelReg	40	static
+../source/accelerometer.c:259:6:I2C_ReadAccelRegs	48	static
+../source/accelerometer.c:297:6:CalibrateAccelerometer	56	static

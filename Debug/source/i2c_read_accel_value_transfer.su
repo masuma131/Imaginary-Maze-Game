@@ -1,0 +1,14 @@
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\Project\CMSIS/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\Project\drivers/fsl_clock.h:725:20:CLOCK_EnableClock	24	static
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\Project\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\Project\drivers/fsl_port.h:443:20:PORT_SetPinInterruptConfig	24	static
+../source/i2c_read_accel_value_transfer.c:77:6:setupResetButton	16	static
+../source/i2c_read_accel_value_transfer.c:95:6:resetGame	8	static
+../source/i2c_read_accel_value_transfer.c:112:6:PORTD_IRQHandler	8	static
+../source/i2c_read_accel_value_transfer.c:133:5:main	40	static
+../source/i2c_read_accel_value_transfer.c:237:6:MovePlayer	32	static
+../source/i2c_read_accel_value_transfer.c:323:6:showMaze	24	static
+../source/i2c_read_accel_value_transfer.c:353:6:LedSetup	8	static
+../source/i2c_read_accel_value_transfer.c:359:6:RedLedBlink	8	static
+../source/i2c_read_accel_value_transfer.c:365:6:GreenLedBlink	8	static
+../source/i2c_read_accel_value_transfer.c:372:6:BlueLedBlink	8	static

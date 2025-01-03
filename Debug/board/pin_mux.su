@@ -1,0 +1,9 @@
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\MazeGameFinal\drivers/fsl_clock.h:725:20:CLOCK_EnableClock	24	static
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\MazeGameFinal\drivers/fsl_port.h:271:20:PORT_SetPinConfig	32	static
+C:\Users\masum\Documents\MCUXpressoIDE_11.10.0_3148\workspace20\project-main\MazeGameFinal\drivers/fsl_port.h:374:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:30:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:58:6:BOARD_InitPins	8	static
+../board/pin_mux.c:103:6:BOARD_I2C_ConfigurePins	16	static
+../board/pin_mux.c:159:6:BOARD_InitBUTTONsPins	4	static
+../board/pin_mux.c:179:6:BOARD_InitLEDsPins	4	static
+../board/pin_mux.c:201:6:BOARD_InitDEBUG_UARTPins	8	static

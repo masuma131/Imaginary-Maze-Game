@@ -1,0 +1,7 @@
+../source/MazeGame.c:25:6:showMaze	24	static
+../source/MazeGame.c:43:6:MovePlayer	32	static
+../source/MazeGame.c:92:6:LedSetup	8	static
+../source/MazeGame.c:99:6:RedLedBlink	8	static
+../source/MazeGame.c:106:6:GreenLedBlink	8	static
+../source/MazeGame.c:113:6:BlueLedBlink	16	static
+../source/MazeGame.c:123:6:resetGame	8	static
