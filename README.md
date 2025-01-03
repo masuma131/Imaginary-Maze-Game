@@ -14,7 +14,7 @@ Physical mazes are difficult to set up and lack flexibility, while software maze
 - **Tilt-Based Navigation**: Use accelerometer data to navigate the maze by tilting the board.
 - **LED Feedback**:
   - **Red LED**: Signals a wall encounter.
-  - **Green LED**: Indicates a clear path.
+  - **Green LED**: Indicates successful moves
   - **Blue LED**: Lights up upon reaching the maze endpoint.
 - **Custom Reset Button**: Allows players to restart the game at any time.
 - **Serial Communication (Development Phase)**: Displays the maze and provides real-time feedback during development only.
