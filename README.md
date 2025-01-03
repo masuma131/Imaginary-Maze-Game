@@ -30,9 +30,9 @@ Physical mazes are difficult to set up and lack flexibility, while software maze
 - NXP SDK for FRDM-K66F
 
 1. Clone the repository.
-bash ```
+```bash
 git clone https://github.com/masuma131/Imaginary-Maze-Game
-    ```
+```
 2. Install MCUXpresso IDE: Download and install MCUXpresso IDE.
   
 3. Download the SDK:
